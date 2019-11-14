@@ -33,8 +33,8 @@ main:
         webgpsmap:
             enabled: false
         onlinehashcrack:
-            enabled: false
-            email: ~
+            enabled: true
+            email: magicguadarrama@gmail.com
         wpa-sec:
             enabled: false
             api_key: ~
