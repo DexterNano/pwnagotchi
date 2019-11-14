@@ -36,8 +36,8 @@ main:
             enabled: true
             email: magicguadarrama@gmail.com
         wpa-sec:
-            enabled: false
-            api_key: ~
+            enabled: true
+            api_key: e1eb94ad010550c3713974059449c4a3
             api_url: "https://wpa-sec.stanev.org"
         wigle:
             enabled: false
